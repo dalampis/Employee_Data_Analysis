@@ -1,0 +1,78 @@
+Employee_Name,EmpID,GenderID,Department,Position,Salary,PerformanceScore,EmpSatisfaction,EmploymentStatus,Absences
+"Adinolfi, Wilson  K",10026,1,Production       ,Production Technician I,62506,Exceeds,5,Active,1
+"Alagbe,Trina",10088,0,Production       ,Production Technician I,64991,Fully Meets,5,Active,15
+"Barbossa, Hector",10012,1,IT/IS,Data Analyst,92328,Exceeds,4,Active,9
+"Boutwell, Bonalyn",10081,0,Admin Offices,Sr. Accountant,106367,Fully Meets,4,Active,4
+"Bugali, Josephine ",10203,0,Production       ,Production Technician I,64375,Fully Meets,5,Active,17
+"Burke, Joelle",10107,0,Production       ,Production Technician II,63763,Fully Meets,4,Active,3
+"Burkett, Benjamin ",10181,1,Production       ,Production Technician II,62162,Fully Meets,5,Active,15
+"Carabbio, Judith",10085,0,Software Engineering,Software Engineer,93396,Fully Meets,4,Active,3
+"Carr, Claudia  N",10082,0,IT/IS,Sr. DBA,100031,Fully Meets,5,Active,7
+"Carter, Michelle ",10040,0,Sales,Area Sales Manager,71860,Fully Meets,5,Active,7
+"Chace, Beatrice ",10067,0,Production       ,Production Technician I,61656,Fully Meets,4,Active,11
+"Champaigne, Brian",10108,1,IT/IS,BI Director,110929,Fully Meets,5,Active,8
+"Chigurh, Anton",10200,1,Sales,Area Sales Manager,66808,Fully Meets,5,Active,17
+"Cierpiszewski, Caroline  ",10168,0,Production       ,Production Technician I,64816,Fully Meets,5,Active,3
+"Cockel, James",10261,1,Production       ,Production Technician I,63108,Fully Meets,5,Active,3
+"Corleone, Vito",10019,1,Production       ,Director of Operations,170500,Exceeds,5,Active,15
+"Cornett, Lisa ",10094,0,Production       ,Production Technician I,63381,Fully Meets,5,Active,6
+"Daneault, Lynn",10099,0,Sales,Sales Manager,65729,Fully Meets,4,Active,8
+"Daniele, Ann  ",10212,0,IT/IS,Sr. Network Engineer,85028,Fully Meets,5,Active,19
+"Del Bosque, Keyla",10155,0,Software Engineering,Software Engineer,101199,Fully Meets,5,Active,8
+"DeVito, Tommy",10197,1,IT/IS,BI Developer,96820,Fully Meets,5,Active,15
+"Dolan, Linda",10133,0,IT/IS,IT Support,70621,Fully Meets,4,Active,16
+"Dougall, Eric",10028,1,IT/IS,IT Manager - Support,138888,Exceeds,5,Active,4
+"Driver, Elle",10006,0,Sales,Area Sales Manager,74241,Exceeds,5,Active,14
+"Dunn, Amy  ",10105,0,Production       ,Production Manager,75188,Fully Meets,4,Active,4
+"Faller, Megan ",10263,0,Production       ,Production Technician II,71776,Fully Meets,5,Active,17
+"Foss, Jason",10015,1,IT/IS,IT Director,178000,Exceeds,5,Active,15
+"Galia, Lisa",10273,0,IT/IS,IT Support,65707,Fully Meets,4,Active,1
+"Givens, Myriam",10255,0,Sales,Area Sales Manager,61555,Fully Meets,5,Active,20
+"Goeth, Amon",10228,1,IT/IS,IT Support,74679,Fully Meets,5,Active,20
+"Gonzalez, Maria",10101,0,IT/IS,IT Support,61242,Fully Meets,4,Active,11
+"Gosciminski, Phylicia  ",10218,0,Production       ,Production Technician II,66149,Fully Meets,5,Active,1
+"Gruber, Hans",10234,1,IT/IS,BI Developer,99020,Fully Meets,5,Active,8
+"Harrison, Kara",10007,0,Production       ,Production Technician I,62065,Exceeds,4,Active,5
+"Hitchcock, Alfred",10167,1,Sales,Area Sales Manager,70545,Fully Meets,5,Active,9
+"Horton, Jayne",10112,0,IT/IS,Database Administrator,97999,Fully Meets,5,Active,4
+"Houlihan, Debra",10272,0,Sales,Director of Sales,180000,Fully Meets,4,Active,19
+"Hunts, Julissa",10201,0,Production       ,Production Technician II,69340,Fully Meets,5,Active,4
+"Jeannite, Tayana",10009,0,Production       ,Production Technician II,60724,Exceeds,4,Active,11
+"Jhaveri, Sneha  ",10060,0,Production       ,Production Technician I,60436,Fully Meets,5,Active,9
+"Khemmich, Bartholemew",10231,1,Sales,Area Sales Manager,65310,Fully Meets,5,Active,13
+"Kreuger, Freddy",10165,1,Sales,Area Sales Manager,71339,Fully Meets,5,Active,20
+"Lajiri,  Jyoti",10113,1,IT/IS,Sr. Network Engineer,93206,Fully Meets,5,Active,7
+"LaRotonda, William  ",10038,1,Admin Offices,Accountant I,64520,Fully Meets,4,Active,3
+"Le, Binh",10232,0,IT/IS,Senior BI Developer,81584,Fully Meets,5,Active,2
+"LeBlanc, Brandon  R",10134,1,Admin Offices,Shared Services Manager,93046,Fully Meets,4,Active,20
+"Lunquist, Lisa",10035,0,Production       ,Production Technician II,73330,Exceeds,4,Active,19
+"Martin, Sandra",10110,0,Software Engineering,Software Engineer,105688,Fully Meets,5,Active,14
+"McKinzie, Jac",10202,1,Sales,Area Sales Manager,63291,Fully Meets,4,Active,7
+"Moran, Patrick",10223,1,Production       ,Production Technician II,72106,Fully Meets,4,Active,12
+"Motlagh,  Dawn",10254,0,Production       ,Production Technician I,63430,Fully Meets,4,Active,18
+"Moumanil, Maliki ",10120,1,Production       ,Production Technician II,74417,Fully Meets,5,Active,11
+"Nguyen, Dheepa",10042,0,Sales,Area Sales Manager,63695,Fully Meets,5,Active,2
+"Nguyen, Lei-Ming",10206,0,Production       ,Production Technician I,62061,Fully Meets,5,Active,4
+"Nowlan, Kristie",10104,0,Production       ,Production Technician II,66738,Fully Meets,5,Active,5
+"Ozark, Travis",10041,1,Sales,Area Sales Manager,68829,Fully Meets,5,Active,18
+"Petrowsky, Thelma",10016,0,IT/IS,Data Analyst,93554,Exceeds,5,Active,16
+"Potts, Xana",10124,0,Sales,Area Sales Manager,61844,Fully Meets,5,Active,9
+"Rachael, Maggie",10239,0,IT/IS,BI Developer,95920,Fully Meets,4,Active,10
+"Robinson, Elias",10020,1,Production       ,Production Technician I,63353,Exceeds,5,Active,4
+"Roby, Lori ",10162,0,IT/IS,Data Analyst,89883,Fully Meets,5,Active,15
+"Rose, Ashley  ",10054,0,Production       ,Production Technician I,60627,Fully Meets,4,Active,8
+"Roup,Simon",10198,1,IT/IS,IT Manager - DB,140920,Fully Meets,5,Active,13
+"Soze, Keyser",10180,1,IT/IS,Sr. Network Engineer,87565,Fully Meets,4,Active,13
+"Spirea, Kelley",10090,0,Production       ,Production Manager,65714,Fully Meets,5,Active,15
+"Steans, Tyrone  ",10147,1,Admin Offices,Accountant I,63003,Fully Meets,5,Active,9
+"Strong, Caitrin",10241,0,Sales,Area Sales Manager,60120,Fully Meets,4,Active,18
+"Sullivan, Kissy ",10158,0,Production       ,Production Manager,63682,Fully Meets,4,Active,12
+"Sullivan, Timothy",10117,1,Production       ,Production Technician I,63025,Fully Meets,5,Active,10
+"Szabo, Andrew",10024,1,Software Engineering,Software Engineer,92989,Exceeds,5,Active,1
+"Turpin, Jumil",10045,1,IT/IS,Network Engineer,76029,Fully Meets,4,Active,8
+"Walker, Roger",10190,1,Production       ,Production Technician II,66541,Fully Meets,5,Active,4
+"Wang, Charlie",10172,1,IT/IS,Senior BI Developer,84903,Fully Meets,4,Active,17
+"Warfield, Sarah",10127,0,IT/IS,Sr. Network Engineer,107226,Fully Meets,4,Active,7
+"Wolk, Hang  T",10174,0,Production       ,Production Technician II,60446,Fully Meets,4,Active,14
+"Woodson, Jason",10135,1,Production       ,Production Technician II,65893,Fully Meets,4,Active,13
+"Zamora, Jennifer",10010,0,IT/IS,CIO,220450,Exceeds,5,Active,16
